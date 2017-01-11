@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.allstate.models.TriangleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-01-11T10:12:38" hostname="COMPOZED-AL-021" time="0.001">
+  <properties/>
+  <testcase name="area" classname="com.allstate.models.TriangleTest" time="0.001"/>
+  <system-out><![CDATA[21
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

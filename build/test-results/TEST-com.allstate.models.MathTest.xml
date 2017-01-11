@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.allstate.models.MathTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-01-11T10:12:38" hostname="COMPOZED-AL-021" time="0.0">
+  <properties/>
+  <testcase name="shouldReturnFactorial" classname="com.allstate.models.MathTest" time="0.0"/>
+  <testcase name="shouldReturnFibonacciNumber" classname="com.allstate.models.MathTest" time="0.0"/>
+  <testcase name="shouldSquareAnInteger" classname="com.allstate.models.MathTest" time="0.0"/>
+  <system-out><![CDATA[120
+610
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
